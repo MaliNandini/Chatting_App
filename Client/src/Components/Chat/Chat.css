@@ -1,0 +1,23 @@
+.main_container{
+  background-color: rgb(248, 242, 242);
+  height: 100vh;
+}
+
+.chat{
+    overflow-y: hidden;
+    height: 82%;
+}
+
+.input_container{
+    position: fixed;
+    bottom: 0px ;
+    width: 100%; 
+    
+}
+
+.input_box{
+  border-top-style: groove;
+  border-right-style: groove;
+  border-left-style: groove;
+  border-bottom-style: groove;
+}
